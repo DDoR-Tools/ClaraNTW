@@ -15,6 +15,3 @@
    Visit the official download page to get the latest version of ClaraNTW:  
    [Download ClaraNTW Tool](https://clara-tools.fr/clarantw.html)
 
-2. **Extract the downloaded file**:
-   ```bash
-   unzip clarantw.zip
